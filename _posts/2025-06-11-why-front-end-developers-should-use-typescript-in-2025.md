@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Why Front-End Developers Should Use TypeScript in 2025"
 date: 2025-06-11
 ---
