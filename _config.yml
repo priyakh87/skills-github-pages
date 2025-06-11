@@ -1,6 +1,3 @@
 title: minima theme
 
 theme: minima
-
-permalink: /:title/
-# This permalink setting will make posts accessible at /title/ URLs
